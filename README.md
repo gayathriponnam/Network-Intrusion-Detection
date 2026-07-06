@@ -79,7 +79,7 @@ The project uses a Network Intrusion Detection dataset containing **40 network t
 
 ## Author
 
-**P. Gayathri**
+**Ponnam.Gayathri**
 
 B.Tech – Computer Science and Engineering (Cyber Security)
 
